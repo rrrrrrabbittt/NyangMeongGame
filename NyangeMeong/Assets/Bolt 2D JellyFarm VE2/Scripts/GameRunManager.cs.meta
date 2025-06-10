@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b5660b482404c4de9ad3d678bb8d35d6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - IntroUI: {instanceID: 0}
+  - DeadUI: {instanceID: 0}
+  - EnemySpawner: {instanceID: 0}
+  - FoodSpawner: {instanceID: 0}
+  - GoldenSpawner: {instanceID: 0}
+  - PlayerScript: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
